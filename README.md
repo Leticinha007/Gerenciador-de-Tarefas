@@ -8,7 +8,7 @@ Este é um simples **Gerenciador de Tarefas** feito em **Python 3**, com o objet
 
 > **Desenvolvido por:**
 > - Douglas Dos Santos Ferraz
-> - Leticia Rebeka Ferreira Felix
+> - Leticia Rebeka Ferreira Felix 💖
 
 ## 🚀 Funcionalidades
 
